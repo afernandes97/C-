@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Optional\Optional\bin\Debug\Optional.exe.config
+C:\Users\Admin\Desktop\Optional\Optional\bin\Debug\Optional.exe
+C:\Users\Admin\Desktop\Optional\Optional\bin\Debug\Optional.pdb
+C:\Users\Admin\Desktop\Optional\Optional\obj\Debug\Optional.exe
+C:\Users\Admin\Desktop\Optional\Optional\obj\Debug\Optional.pdb

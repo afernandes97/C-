@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\MyException\MyException\bin\Debug\MyException.dll
+C:\Users\Admin\Desktop\MyException\MyException\bin\Debug\MyException.pdb
+C:\Users\Admin\Desktop\MyException\MyException\obj\Debug\MyException.dll
+C:\Users\Admin\Desktop\MyException\MyException\obj\Debug\MyException.pdb

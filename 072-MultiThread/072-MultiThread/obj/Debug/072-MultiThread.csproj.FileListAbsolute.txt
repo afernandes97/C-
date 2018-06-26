@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\bin\Debug\072-MultiThread.exe.config
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\bin\Debug\072-MultiThread.exe
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\bin\Debug\072-MultiThread.pdb
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\obj\Debug\072-MultiThread.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\obj\Debug\_072_MultiThread.Form1.resources
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\obj\Debug\_072_MultiThread.Properties.Resources.resources
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\obj\Debug\072-MultiThread.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\obj\Debug\072-MultiThread.exe
+C:\Users\Admin\Desktop\072-MultiThread\072-MultiThread\obj\Debug\072-MultiThread.pdb

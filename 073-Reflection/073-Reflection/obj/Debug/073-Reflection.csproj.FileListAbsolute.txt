@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\073-Reflection\073-Reflection\bin\Debug\073-Reflection.exe.config
+C:\Users\Admin\Desktop\073-Reflection\073-Reflection\bin\Debug\073-Reflection.exe
+C:\Users\Admin\Desktop\073-Reflection\073-Reflection\bin\Debug\073-Reflection.pdb
+C:\Users\Admin\Desktop\073-Reflection\073-Reflection\obj\Debug\073-Reflection.exe
+C:\Users\Admin\Desktop\073-Reflection\073-Reflection\obj\Debug\073-Reflection.pdb

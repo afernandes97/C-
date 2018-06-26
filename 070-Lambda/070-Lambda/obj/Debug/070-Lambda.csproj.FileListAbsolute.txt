@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\070-Lambda\070-Lambda\bin\Debug\070-Lambda.exe.config
+C:\Users\Admin\Desktop\070-Lambda\070-Lambda\bin\Debug\070-Lambda.exe
+C:\Users\Admin\Desktop\070-Lambda\070-Lambda\bin\Debug\070-Lambda.pdb
+C:\Users\Admin\Desktop\070-Lambda\070-Lambda\obj\Debug\070-Lambda.exe
+C:\Users\Admin\Desktop\070-Lambda\070-Lambda\obj\Debug\070-Lambda.pdb

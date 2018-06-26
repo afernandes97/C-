@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\078-Interop\078-Interop\bin\Debug\078-Interop.exe.config
+C:\Users\Admin\Desktop\078-Interop\078-Interop\bin\Debug\078-Interop.exe
+C:\Users\Admin\Desktop\078-Interop\078-Interop\bin\Debug\078-Interop.pdb
+C:\Users\Admin\Desktop\078-Interop\078-Interop\obj\Debug\078-Interop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\078-Interop\078-Interop\obj\Debug\078-Interop.exe
+C:\Users\Admin\Desktop\078-Interop\078-Interop\obj\Debug\078-Interop.pdb

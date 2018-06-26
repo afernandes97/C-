@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\bin\Debug\080-criptografiaSimetrica.exe.config
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\bin\Debug\Arquivo.txt
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\bin\Debug\080-criptografiaSimetrica.exe
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\bin\Debug\080-criptografiaSimetrica.pdb
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\obj\Debug\080-criptografiaSimetrica.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\obj\Debug\080-criptografiaSimetrica.exe
+C:\Users\Admin\Desktop\ultima aula\080-criptografiaSimetrica\080-criptografiaSimetrica\obj\Debug\080-criptografiaSimetrica.pdb

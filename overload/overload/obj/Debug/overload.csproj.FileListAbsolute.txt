@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\overload\overload\bin\Debug\overload.exe.config
+C:\Users\Admin\Desktop\overload\overload\bin\Debug\overload.exe
+C:\Users\Admin\Desktop\overload\overload\bin\Debug\overload.pdb
+C:\Users\Admin\Desktop\overload\overload\obj\Debug\overload.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\overload\overload\obj\Debug\overload.exe
+C:\Users\Admin\Desktop\overload\overload\obj\Debug\overload.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\Admin\Desktop\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\Admin\Desktop\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\Admin\Desktop\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\Admin\Desktop\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

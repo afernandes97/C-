@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\bin\Debug\081-decriptacaoSimetrica.exe.config
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\bin\Debug\081-decriptacaoSimetrica.exe
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\bin\Debug\081-decriptacaoSimetrica.pdb
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\obj\Debug\081-decriptacaoSimetrica.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\obj\Debug\081-decriptacaoSimetrica.exe
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\obj\Debug\081-decriptacaoSimetrica.pdb
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\bin\Debug\Chaves.txt
+C:\Users\Admin\Desktop\ultima aula\081-decriptacaoSimetrica\081-decriptacaoSimetrica\bin\Debug\Criptografado.txt

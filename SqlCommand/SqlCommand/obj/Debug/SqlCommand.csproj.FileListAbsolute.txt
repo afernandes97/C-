@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\SqlCommand\SqlCommand\bin\Debug\SqlCommand.exe.config
+C:\Users\Admin\Desktop\SqlCommand\SqlCommand\obj\Debug\SqlCommand.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SqlCommand\SqlCommand\bin\Debug\SqlCommand.exe
+C:\Users\Admin\Desktop\SqlCommand\SqlCommand\bin\Debug\SqlCommand.pdb
+C:\Users\Admin\Desktop\SqlCommand\SqlCommand\obj\Debug\SqlCommand.exe
+C:\Users\Admin\Desktop\SqlCommand\SqlCommand\obj\Debug\SqlCommand.pdb

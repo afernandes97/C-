@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\ultima aula\082-EncriptarXML\082-EncriptarXML\bin\Debug\082-EncriptarXML.exe.config
+C:\Users\Admin\Desktop\ultima aula\082-EncriptarXML\082-EncriptarXML\bin\Debug\082-EncriptarXML.exe
+C:\Users\Admin\Desktop\ultima aula\082-EncriptarXML\082-EncriptarXML\bin\Debug\082-EncriptarXML.pdb
+C:\Users\Admin\Desktop\ultima aula\082-EncriptarXML\082-EncriptarXML\obj\Debug\082-EncriptarXML.exe
+C:\Users\Admin\Desktop\ultima aula\082-EncriptarXML\082-EncriptarXML\obj\Debug\082-EncriptarXML.pdb

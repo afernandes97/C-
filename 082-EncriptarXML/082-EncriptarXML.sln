@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "082-EncriptarXML", "082-EncriptarXML\082-EncriptarXML.csproj", "{4AC92E3D-B313-41B5-8BD2-D687AAEAEB9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC92E3D-B313-41B5-8BD2-D687AAEAEB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC92E3D-B313-41B5-8BD2-D687AAEAEB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC92E3D-B313-41B5-8BD2-D687AAEAEB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC92E3D-B313-41B5-8BD2-D687AAEAEB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

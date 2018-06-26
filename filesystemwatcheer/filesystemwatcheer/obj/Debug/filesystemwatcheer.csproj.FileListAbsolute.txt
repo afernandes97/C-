@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\bin\Debug\filesystemwatcheer.exe.config
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\bin\Debug\filesystemwatcheer.exe
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\bin\Debug\filesystemwatcheer.pdb
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\obj\Debug\filesystemwatcheer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\obj\Debug\filesystemwatcheer.Form1.resources
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\obj\Debug\filesystemwatcheer.Properties.Resources.resources
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\obj\Debug\filesystemwatcheer.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\obj\Debug\filesystemwatcheer.exe
+C:\Users\Admin\Desktop\filesystemwatcheer\filesystemwatcheer\obj\Debug\filesystemwatcheer.pdb

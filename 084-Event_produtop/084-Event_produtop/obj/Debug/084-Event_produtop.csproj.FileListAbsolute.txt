@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\ultima aula\084-Event_produtop\084-Event_produtop\bin\Debug\084-Event_produtop.exe.config
+C:\Users\Admin\Desktop\ultima aula\084-Event_produtop\084-Event_produtop\bin\Debug\084-Event_produtop.exe
+C:\Users\Admin\Desktop\ultima aula\084-Event_produtop\084-Event_produtop\bin\Debug\084-Event_produtop.pdb
+C:\Users\Admin\Desktop\ultima aula\084-Event_produtop\084-Event_produtop\obj\Debug\084-Event_produtop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ultima aula\084-Event_produtop\084-Event_produtop\obj\Debug\084-Event_produtop.exe
+C:\Users\Admin\Desktop\ultima aula\084-Event_produtop\084-Event_produtop\obj\Debug\084-Event_produtop.pdb

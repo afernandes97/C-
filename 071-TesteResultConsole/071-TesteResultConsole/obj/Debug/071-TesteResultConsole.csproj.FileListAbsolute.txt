@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\071-TesteResultConsole\071-TesteResultConsole\bin\Debug\071-TesteResultConsole.exe.config
+C:\Users\Admin\Desktop\071-TesteResultConsole\071-TesteResultConsole\bin\Debug\071-TesteResultConsole.exe
+C:\Users\Admin\Desktop\071-TesteResultConsole\071-TesteResultConsole\bin\Debug\071-TesteResultConsole.pdb
+C:\Users\Admin\Desktop\071-TesteResultConsole\071-TesteResultConsole\obj\Debug\071-TesteResultConsole.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\071-TesteResultConsole\071-TesteResultConsole\obj\Debug\071-TesteResultConsole.exe
+C:\Users\Admin\Desktop\071-TesteResultConsole\071-TesteResultConsole\obj\Debug\071-TesteResultConsole.pdb
